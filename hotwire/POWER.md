@@ -2,7 +2,7 @@
 name: "hotwire"
 displayName: "Hotwire"
 description: "Complete Hotwire guide covering Turbo Drive, Frames, and Streams with Stimulus integration. Includes fundamentals from official docs and advanced production patterns for animations, custom actions, and event handling."
-keywords: ["hotwire", "turbo", "stimulus", "frames", "streams", "rails", "spa"]
+keywords: ["turbo-frame", "turbo-stream", "hotwire-turbo", "stimulus-controller", "turbo-drive"]
 author: "Boston"
 ---
 
