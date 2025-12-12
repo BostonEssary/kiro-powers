@@ -25,6 +25,13 @@ View Transitions are a native browser API that enables smooth animations between
 
 ### Basic Usage
 
+## Required
+this is needed in the head of your application layout
+```html
+<meta name="view-transition" content="same-origin" />
+```
+If you do not have this, transitions will not work.
+
 **Whole page transition:**
 ```html
 <!-- new.html.erb -->
